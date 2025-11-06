@@ -1,0 +1,11 @@
+tuple=(1,2,"python",15.5,3,9)
+print("Tuple:",tuple)
+
+print(tuple[1])
+print(tuple[2])
+print(tuple[3])
+print(tuple[-1])
+print(tuple[-2])
+print(tuple[-3])
+print(tuple[-3:-1])
+print(tuple[0:4:2])

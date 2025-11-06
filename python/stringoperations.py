@@ -1,0 +1,21 @@
+str1="virendra Vilas Katale"
+print(str1.capitalize())
+
+str2="Virendra Vilas Katale"
+print(str2.casefold())
+print(str2.count("V"))
+print(str2.find("Vilas"))
+print(str2.endswith("Katale"))
+print(str2.index("l"))
+print(str2.format("Vilas"))
+print(str2.upper())
+print(str2.replace("Virendra","Vishal"))
+print(str2.split())
+print(str2.swapcase())
+print(str2.title())
+print(str2.lower())
+print(str2.strip())
+print(str2.isalpha())
+print(str2.isdigit())
+print(str2.isalnum())    
+print(str2.splitlines())   
